@@ -1,0 +1,21 @@
+body {
+  background: beige;
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+  COMMENTS 
+  background shorthand: color, image, repeat, attachment, position
+  spacing shorthand: 1=all, 2=ns/ew, 3=n/ew/s, 4=n/e/s/w. sides start at north. corners start at northwest.
+  font shorthand: style, weight, size/line height, font family
+  borders: width, style, color
+
+*/ 
