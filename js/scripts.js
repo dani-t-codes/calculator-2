@@ -17,7 +17,10 @@ const divide = function(num1, num2) {
 // End of business logic
 
 // Start of user interface logic
-$(document).ready(funtion() {
+$(document).ready(function() {
+  $("#add").submit(function(event) {
+    event.preventDefault();
+  });
   const num1 = parseInt(prompt("Enter a number:"));
   const num2 = parseInt(prompt("Enter another number:"));
   
