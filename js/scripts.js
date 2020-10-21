@@ -17,10 +17,12 @@ const divide = function(num1, num2) {
 // End of business logic
 
 // Start of user interface logic
-
-const num1 = parseInt(prompt("Enter a number:"));
-const num2 = parseInt(prompt("Enter another number:"));
-alert(add(num1, num2));
+$(document).ready(funtion() {
+  const num1 = parseInt(prompt("Enter a number:"));
+  const num2 = parseInt(prompt("Enter another number:"));
+  
+  alert(add(num1, num2));
+});
 
 
 
