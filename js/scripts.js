@@ -18,6 +18,7 @@ const divide = function(num1, num2) {
 
 // Start of user interface logic
 $(document).ready(function() {
+  $(#form.add").submit(function(event) {}
   const num1 = parseInt($("#add1").val());
   const num2 = parseInt($("#add2").val());
   alert(add(num1, num2));
@@ -29,43 +30,71 @@ $(document).ready(function() {
 
 
 
-// $(document).ready(function() {
-  // $("form#add").submit(function(event) {
-  //   event.preventDefault();
-  });
-  const num1 = parseInt(text("Enter a number:"));
-  const num2 = parseInt(text("Enter another number:"));
-  const num3 = parseInt(a("num1 + num2"))
 
-  //$("").text
-  
-  //// show(add(num1, num2));
-});
-
-$(document).ready(function() {
-  $("form#subtract").submit(function(event) {
-    event.preventDefault();
-  });
-  //const num1 = parseInt(prompt("Enter a number:"));
-  //const num2 = parseInt(prompt("Enter another number:"));
-  
-  //show(add(num1, num2));
+// end of code end of page END!!! END!!!!!!!
 
 
+// end of code end of page END!!! END!!!!!!!
 
-// End of user interface logic
 
-// Start of deleted code
+// end of code end of page END!!! END!!!!!!!
 
-// function multiply(number1, number2) {
-//   return number1 * number2;
-//   }
 
-//   const number1 = parseInt(prompt("Enter a number:"));
-//   const number2 = parseInt(prompt("Enter another Number:"));
-//   const result = multiply(number1, number2);
-//   alert(result);
+// end of code end of page END!!! END!!!!!!!
 
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
+
+
+// end of code end of page END!!! END!!!!!!!
 
 
 // end of code end of page END!!! END!!!!!!!
